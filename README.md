@@ -12,8 +12,3 @@ Hello! My name is Danijela Milanović, a passionate software engineer with a foc
 ![](https://github-readme-stats.vercel.app/api?username=DanijelaMilanovic&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DanijelaMilanovic&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanijelaMilanovic&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=DanijelaMilanovic&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
